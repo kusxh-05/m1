@@ -1,1 +1,2 @@
 print("mama")
+print("ka")
